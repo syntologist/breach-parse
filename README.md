@@ -1,2 +1,4 @@
 # breach-parse
-a simple breached domain parsin tool
+a simple breached domain parsing tool
+
+
